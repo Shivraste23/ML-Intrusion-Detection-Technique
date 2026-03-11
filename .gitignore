@@ -1,0 +1,33 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Dataset files (too large for GitHub)
+*.csv
+
+# Trained model files (can be regenerated)
+models/*.pkl
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python version file
+.python-version
+
+# Lock files (optional)
+uv.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db

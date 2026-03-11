@@ -1,0 +1,6 @@
+# Model artifacts will be saved here after training
+# Run ddos_detection.ipynb to generate:
+# - ddos_model.pkl
+# - scaler.pkl
+# - feature_names.pkl
+# - preprocessing_config.pkl
